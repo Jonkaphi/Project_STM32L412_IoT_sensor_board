@@ -23,7 +23,7 @@ This repository is for the code used for STM32L412CBT6 in the vehicle occupancy 
 
 * On how to clone this repo follow this GitHub [guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop).
 
-* All code dependencies are in the CubeIDE project, simplest method is opening the main folder containing the .project file with the [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) it should automatically recognise it, here is also the [user manual](https://www.st.com/resource/en/user_manual/um2609-stm32cubeide-user-guide-stmicroelectronics.pdf) for the software for any further guidance.
+* The simplest method is opening the main folder containing the .project file with the [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) it should automatically recognise it, here is also the [user manual](https://www.st.com/resource/en/user_manual/um2609-stm32cubeide-user-guide-stmicroelectronics.pdf) for the software for any further guidance.
 
   
 
