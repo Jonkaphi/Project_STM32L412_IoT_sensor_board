@@ -1,4 +1,4 @@
-# Project_STM32L412_IoT_sensor_board
+# IoT Parking Bay Occupance Detection Board
 https://github.com/Jonkaphi/Project_STM32L412_IoT_sensor_board
 ## Summary
 This repository is for the code used for STM32L412CBT6 in the vehicle occupancy monitor board and its Altium PCB design files for a "Self Powered IoT sensor board" project. 
