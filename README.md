@@ -3,7 +3,7 @@ https://github.com/Jonkaphi/Project_STM32L412_IoT_sensor_board
 ## Summary
 This repository is for the code used in the vehicle occupancy monitor PCB from the "Self Powered IoT sensor board" 3rd Year project. 
 
-![Screenshot 2024-04-14 144821](https://github.com/Jonkaphi/Project_STM32L412_IoT_sensor_board/assets/103381620/422ad319-b25d-4ee4-b1fa-c5ecad54b088)
+![Screenshot 2024-04-14 144821](https://github.com/Jonkaphi/Project_STM32L412_IoT_sensor_board/assets/103381620/422ad319-b25d-4ee4-b1fa-c5ecad54b088=100x250)
 
 ## Code Bases Used
 * [VL53L3CX Ultralow power (ULP) application programming interface (API)](https://www.st.com/en/embedded-software/stsw-img033.html)
