@@ -33,7 +33,7 @@ This repository is for the code used for STM32L412CBT6 in the vehicle occupancy 
 
   
 
-* Flowchart above shows a simplified view of how the code works. The operational modes of the device are controller using SW1. In monitoring mode by default the device will measure for 500 ms five times with 6 second sleep periods in between until about 33 seconds elapse, and the radio sends a update message at a predefined specific frequency band (863 MHz) with the measurement data from ToF sensor as well as the status of the board. The packet structure can be seen below.
+* Flowchart above shows a simplified view of how the code works. The operational modes of the device are controller using SW1. In monitoring mode by default the device will measure for 500 ms five times with 6 second sleep periods in between until about 33 seconds elapse, and the radio sends an update message at a predefined specific frequency band (863 MHz) with the measurement data from ToF sensor as well as the status of the board. The packet structure can be seen below.
 
   
 
