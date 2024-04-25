@@ -49,7 +49,7 @@ This repository is for the code used for STM32L412CBT6 in the vehicle occupancy 
 
   
 
-The code in the main.c file should considered as a usable demo.
+The flowchart above explains the code seen in the main.c file, located in path “project_STM32L412_IoT_sensor_board/Code/Core/Src”.  This file can be considered as a usable demo for the specific PCB.
 
   
 
